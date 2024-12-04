@@ -1,2 +1,2 @@
 ## CodeChef
-CodeChef Problems
+Repository for CodeChef Problems
