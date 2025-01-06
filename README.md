@@ -1,2 +1,2 @@
 ## CodeChef
-CodeChef problems
+CodeChef problems.
