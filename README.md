@@ -1,2 +1,2 @@
 ## CodeChef
-Repository to track CodeChef problems.
+Repository to track CodeChef problems
